@@ -3,12 +3,14 @@
 ###
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/victor-queiroz-8b54371a6/">
+  <img width="60" height="62" alt="image" src="https://github.com/user-attachments/assets/5f403854-e4b8-40a4-ae8b-6c90fb965447" />
+  </a>
 </div>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning React and AWS<br>🎯 Goals: To become a skilled Full-Stack Developer</p>
 
 ###
 
@@ -16,9 +18,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorJunior-creator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorJunior-creator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorJunior-creator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200"
+    alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorJunior-creator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" alt="languages graph"  />
 </div>
 
 ###
@@ -27,7 +30,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/VictorJunior-creator/VictorJunior-creator/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VictorJunior-creator/VictorJunior-creator/output/snake.svg" width="100%" alt="Snake animation"/>
 
 ###
 
