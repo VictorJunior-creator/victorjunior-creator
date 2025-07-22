@@ -30,7 +30,6 @@
 
 ###
 <img src="https://raw.githubusercontent.com/VictorJunior-creator/VictorJunior-creator/output/snake.svg" alt="Snake animation" />
-###
 
 <h2 align="left"></h2>
 
