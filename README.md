@@ -3,7 +3,7 @@
 ###
 
 <div align="right">
-  <a href="[https://www.linkedin.com/in/victor-queiroz-8b54371a6/](https://www.linkedin.com/in/victorqz/)">
+  <a href="https://www.linkedin.com/in/victorqz/">
   <img width="60" height="62" alt="image" src="https://github.com/user-attachments/assets/5f403854-e4b8-40a4-ae8b-6c90fb965447" />
   </a>
 </div>
